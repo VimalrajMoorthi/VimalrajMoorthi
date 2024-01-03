@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Vimalraj<br>🤝 I’m interested in Data Analytics, Process Automation, and Product Management<br>👯 I’m looking to collaborate on Independent Consulting & Freelance<br>🌱 I’m currently learning AWS<br>📫 How to reach me: dudevimsy@gmail.com
+👋 Hi, I’m Vimalraj<br>🤝 I’m interested in Process Automation, Data Analytics, and Product Management<br>👯 I’m looking to collaborate on Independent Consulting & Freelance<br>🌱 I’m currently learning AWS<br>📫 How to reach me: dudevimsy@gmail.com
 
 
 ## 🌐 Socials:
